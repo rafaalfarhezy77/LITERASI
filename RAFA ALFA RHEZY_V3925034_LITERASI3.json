@@ -1,0 +1,710 @@
+{
+  "data_anggaran": [
+    {
+      "id": 1,
+      "program": "Pendidikan",
+      "tahun": 2025,
+      "anggaran": 5000000000,
+      "realisasi": 4500000000
+    },
+    {
+      "id": 2,
+      "program": "Kesehatan",
+      "tahun": 2025,
+      "anggaran": 4000000000,
+      "realisasi": 3700000000
+    },
+    {
+      "id": 3,
+      "program": "Infrastruktur",
+      "tahun": 2025,
+      "anggaran": 6000000000,
+      "realisasi": 5800000000
+    },
+    {
+      "id": 4,
+      "program": "Pertanian",
+      "tahun": 2025,
+      "anggaran": 2500000000,
+      "realisasi": 2000000000
+    },
+    {
+      "id": 5,
+      "program": "Perikanan",
+      "tahun": 2025,
+      "anggaran": 1800000000,
+      "realisasi": 1500000000
+    },
+    {
+      "id": 6,
+      "program": "Energi",
+      "tahun": 2025,
+      "anggaran": 3500000000,
+      "realisasi": 3400000000
+    },
+    {
+      "id": 7,
+      "program": "Transportasi",
+      "tahun": 2025,
+      "anggaran": 3000000000,
+      "realisasi": 2950000000
+    },
+    {
+      "id": 8,
+      "program": "Pariwisata",
+      "tahun": 2025,
+      "anggaran": 2000000000,
+      "realisasi": 1800000000
+    },
+    {
+      "id": 9,
+      "program": "Lingkungan",
+      "tahun": 2025,
+      "anggaran": 2200000000,
+      "realisasi": 2100000000
+    },
+    {
+      "id": 10,
+      "program": "Sosial",
+      "tahun": 2025,
+      "anggaran": 2700000000,
+      "realisasi": 2600000000
+    },
+    {
+      "id": 11,
+      "program": "Perumahan",
+      "tahun": 2025,
+      "anggaran": 2400000000,
+      "realisasi": 2300000000
+    },
+    {
+      "id": 12,
+      "program": "Komunikasi",
+      "tahun": 2025,
+      "anggaran": 1500000000,
+      "realisasi": 1400000000
+    },
+    {
+      "id": 13,
+      "program": "Keamanan",
+      "tahun": 2025,
+      "anggaran": 4200000000,
+      "realisasi": 4100000000
+    },
+    {
+      "id": 14,
+      "program": "Pertahanan",
+      "tahun": 2025,
+      "anggaran": 5500000000,
+      "realisasi": 5000000000
+    },
+    {
+      "id": 15,
+      "program": "Riset",
+      "tahun": 2025,
+      "anggaran": 1200000000,
+      "realisasi": 1000000000
+    },
+    {
+      "id": 16,
+      "program": "Teknologi",
+      "tahun": 2025,
+      "anggaran": 2000000000,
+      "realisasi": 1700000000
+    },
+    {
+      "id": 17,
+      "program": "UMKM",
+      "tahun": 2025,
+      "anggaran": 1300000000,
+      "realisasi": 1250000000
+    },
+    {
+      "id": 18,
+      "program": "Perdagangan",
+      "tahun": 2025,
+      "anggaran": 2800000000,
+      "realisasi": 2700000000
+    },
+    {
+      "id": 19,
+      "program": "Industri",
+      "tahun": 2025,
+      "anggaran": 3100000000,
+      "realisasi": 3000000000
+    },
+    {
+      "id": 20,
+      "program": "Olahraga",
+      "tahun": 2025,
+      "anggaran": 900000000,
+      "realisasi": 800000000
+    },
+    {
+      "id": 21,
+      "program": "Kebudayaan",
+      "tahun": 2025,
+      "anggaran": 1100000000,
+      "realisasi": 1000000000
+    },
+    {
+      "id": 22,
+      "program": "Agama",
+      "tahun": 2025,
+      "anggaran": 1000000000,
+      "realisasi": 950000000
+    },
+    {
+      "id": 23,
+      "program": "Tenaga Kerja",
+      "tahun": 2025,
+      "anggaran": 1600000000,
+      "realisasi": 1500000000
+    },
+    {
+      "id": 24,
+      "program": "Administrasi Publik",
+      "tahun": 2025,
+      "anggaran": 1400000000,
+      "realisasi": 1300000000
+    },
+    {
+      "id": 25,
+      "program": "Pangan",
+      "tahun": 2025,
+      "anggaran": 1500000000,
+      "realisasi": 1200000000
+    }
+  ],
+  "data_kehadiran": [
+    {
+      "id": 1,
+      "nama": "Anggota 1",
+      "fraksi": "Fraksi B",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Tidak Hadir"
+    },
+    {
+      "id": 2,
+      "nama": "Anggota 2",
+      "fraksi": "Fraksi C",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Izin"
+    },
+    {
+      "id": 3,
+      "nama": "Anggota 3",
+      "fraksi": "Fraksi D",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Sakit"
+    },
+    {
+      "id": 4,
+      "nama": "Anggota 4",
+      "fraksi": "Fraksi A",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Hadir"
+    },
+    {
+      "id": 5,
+      "nama": "Anggota 5",
+      "fraksi": "Fraksi B",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Tidak Hadir"
+    },
+    {
+      "id": 6,
+      "nama": "Anggota 6",
+      "fraksi": "Fraksi C",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Izin"
+    },
+    {
+      "id": 7,
+      "nama": "Anggota 7",
+      "fraksi": "Fraksi D",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Sakit"
+    },
+    {
+      "id": 8,
+      "nama": "Anggota 8",
+      "fraksi": "Fraksi A",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Hadir"
+    },
+    {
+      "id": 9,
+      "nama": "Anggota 9",
+      "fraksi": "Fraksi B",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Tidak Hadir"
+    },
+    {
+      "id": 10,
+      "nama": "Anggota 10",
+      "fraksi": "Fraksi C",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Izin"
+    },
+    {
+      "id": 11,
+      "nama": "Anggota 11",
+      "fraksi": "Fraksi D",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Sakit"
+    },
+    {
+      "id": 12,
+      "nama": "Anggota 12",
+      "fraksi": "Fraksi A",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Hadir"
+    },
+    {
+      "id": 13,
+      "nama": "Anggota 13",
+      "fraksi": "Fraksi B",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Tidak Hadir"
+    },
+    {
+      "id": 14,
+      "nama": "Anggota 14",
+      "fraksi": "Fraksi C",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Izin"
+    },
+    {
+      "id": 15,
+      "nama": "Anggota 15",
+      "fraksi": "Fraksi D",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Sakit"
+    },
+    {
+      "id": 16,
+      "nama": "Anggota 16",
+      "fraksi": "Fraksi A",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Hadir"
+    },
+    {
+      "id": 17,
+      "nama": "Anggota 17",
+      "fraksi": "Fraksi B",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Tidak Hadir"
+    },
+    {
+      "id": 18,
+      "nama": "Anggota 18",
+      "fraksi": "Fraksi C",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Izin"
+    },
+    {
+      "id": 19,
+      "nama": "Anggota 19",
+      "fraksi": "Fraksi D",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Sakit"
+    },
+    {
+      "id": 20,
+      "nama": "Anggota 20",
+      "fraksi": "Fraksi A",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Hadir"
+    },
+    {
+      "id": 21,
+      "nama": "Anggota 21",
+      "fraksi": "Fraksi B",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Tidak Hadir"
+    },
+    {
+      "id": 22,
+      "nama": "Anggota 22",
+      "fraksi": "Fraksi C",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Izin"
+    },
+    {
+      "id": 23,
+      "nama": "Anggota 23",
+      "fraksi": "Fraksi D",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Sakit"
+    },
+    {
+      "id": 24,
+      "nama": "Anggota 24",
+      "fraksi": "Fraksi A",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Hadir"
+    },
+    {
+      "id": 25,
+      "nama": "Anggota 25",
+      "fraksi": "Fraksi B",
+      "tanggal": "2025-01-10",
+      "status_kehadiran": "Tidak Hadir"
+    }
+  ],
+  "data_wilayah": [
+    {
+      "id": 1,
+      "provinsi": "Provinsi 1",
+      "kabupaten": "Kabupaten 1",
+      "jumlah_penduduk": 100000,
+      "luas_km2": 50
+    },
+    {
+      "id": 2,
+      "provinsi": "Provinsi 2",
+      "kabupaten": "Kabupaten 2",
+      "jumlah_penduduk": 200000,
+      "luas_km2": 100
+    },
+    {
+      "id": 3,
+      "provinsi": "Provinsi 3",
+      "kabupaten": "Kabupaten 3",
+      "jumlah_penduduk": 300000,
+      "luas_km2": 150
+    },
+    {
+      "id": 4,
+      "provinsi": "Provinsi 4",
+      "kabupaten": "Kabupaten 4",
+      "jumlah_penduduk": 400000,
+      "luas_km2": 200
+    },
+    {
+      "id": 5,
+      "provinsi": "Provinsi 5",
+      "kabupaten": "Kabupaten 5",
+      "jumlah_penduduk": 500000,
+      "luas_km2": 250
+    },
+    {
+      "id": 6,
+      "provinsi": "Provinsi 6",
+      "kabupaten": "Kabupaten 6",
+      "jumlah_penduduk": 600000,
+      "luas_km2": 300
+    },
+    {
+      "id": 7,
+      "provinsi": "Provinsi 7",
+      "kabupaten": "Kabupaten 7",
+      "jumlah_penduduk": 700000,
+      "luas_km2": 350
+    },
+    {
+      "id": 8,
+      "provinsi": "Provinsi 8",
+      "kabupaten": "Kabupaten 8",
+      "jumlah_penduduk": 800000,
+      "luas_km2": 400
+    },
+    {
+      "id": 9,
+      "provinsi": "Provinsi 9",
+      "kabupaten": "Kabupaten 9",
+      "jumlah_penduduk": 900000,
+      "luas_km2": 450
+    },
+    {
+      "id": 10,
+      "provinsi": "Provinsi 10",
+      "kabupaten": "Kabupaten 10",
+      "jumlah_penduduk": 1000000,
+      "luas_km2": 500
+    },
+    {
+      "id": 11,
+      "provinsi": "Provinsi 11",
+      "kabupaten": "Kabupaten 11",
+      "jumlah_penduduk": 1100000,
+      "luas_km2": 550
+    },
+    {
+      "id": 12,
+      "provinsi": "Provinsi 12",
+      "kabupaten": "Kabupaten 12",
+      "jumlah_penduduk": 1200000,
+      "luas_km2": 600
+    },
+    {
+      "id": 13,
+      "provinsi": "Provinsi 13",
+      "kabupaten": "Kabupaten 13",
+      "jumlah_penduduk": 1300000,
+      "luas_km2": 650
+    },
+    {
+      "id": 14,
+      "provinsi": "Provinsi 14",
+      "kabupaten": "Kabupaten 14",
+      "jumlah_penduduk": 1400000,
+      "luas_km2": 700
+    },
+    {
+      "id": 15,
+      "provinsi": "Provinsi 15",
+      "kabupaten": "Kabupaten 15",
+      "jumlah_penduduk": 1500000,
+      "luas_km2": 750
+    },
+    {
+      "id": 16,
+      "provinsi": "Provinsi 16",
+      "kabupaten": "Kabupaten 16",
+      "jumlah_penduduk": 1600000,
+      "luas_km2": 800
+    },
+    {
+      "id": 17,
+      "provinsi": "Provinsi 17",
+      "kabupaten": "Kabupaten 17",
+      "jumlah_penduduk": 1700000,
+      "luas_km2": 850
+    },
+    {
+      "id": 18,
+      "provinsi": "Provinsi 18",
+      "kabupaten": "Kabupaten 18",
+      "jumlah_penduduk": 1800000,
+      "luas_km2": 900
+    },
+    {
+      "id": 19,
+      "provinsi": "Provinsi 19",
+      "kabupaten": "Kabupaten 19",
+      "jumlah_penduduk": 1900000,
+      "luas_km2": 950
+    },
+    {
+      "id": 20,
+      "provinsi": "Provinsi 20",
+      "kabupaten": "Kabupaten 20",
+      "jumlah_penduduk": 2000000,
+      "luas_km2": 1000
+    },
+    {
+      "id": 21,
+      "provinsi": "Provinsi 21",
+      "kabupaten": "Kabupaten 21",
+      "jumlah_penduduk": 2100000,
+      "luas_km2": 1050
+    },
+    {
+      "id": 22,
+      "provinsi": "Provinsi 22",
+      "kabupaten": "Kabupaten 22",
+      "jumlah_penduduk": 2200000,
+      "luas_km2": 1100
+    },
+    {
+      "id": 23,
+      "provinsi": "Provinsi 23",
+      "kabupaten": "Kabupaten 23",
+      "jumlah_penduduk": 2300000,
+      "luas_km2": 1150
+    },
+    {
+      "id": 24,
+      "provinsi": "Provinsi 24",
+      "kabupaten": "Kabupaten 24",
+      "jumlah_penduduk": 2400000,
+      "luas_km2": 1200
+    },
+    {
+      "id": 25,
+      "provinsi": "Provinsi 25",
+      "kabupaten": "Kabupaten 25",
+      "jumlah_penduduk": 2500000,
+      "luas_km2": 1250
+    }
+  ],
+  "data_aspirasi": [
+    {
+      "id": 1,
+      "nama": "Warga 1",
+      "aspirasi": "Aspirasi ke-1",
+      "lokasi": "Kota 1",
+      "status": "Diproses"
+    },
+    {
+      "id": 2,
+      "nama": "Warga 2",
+      "aspirasi": "Aspirasi ke-2",
+      "lokasi": "Kota 2",
+      "status": "Selesai"
+    },
+    {
+      "id": 3,
+      "nama": "Warga 3",
+      "aspirasi": "Aspirasi ke-3",
+      "lokasi": "Kota 3",
+      "status": "Diterima"
+    },
+    {
+      "id": 4,
+      "nama": "Warga 4",
+      "aspirasi": "Aspirasi ke-4",
+      "lokasi": "Kota 4",
+      "status": "Diproses"
+    },
+    {
+      "id": 5,
+      "nama": "Warga 5",
+      "aspirasi": "Aspirasi ke-5",
+      "lokasi": "Kota 5",
+      "status": "Selesai"
+    },
+    {
+      "id": 6,
+      "nama": "Warga 6",
+      "aspirasi": "Aspirasi ke-6",
+      "lokasi": "Kota 6",
+      "status": "Diterima"
+    },
+    {
+      "id": 7,
+      "nama": "Warga 7",
+      "aspirasi": "Aspirasi ke-7",
+      "lokasi": "Kota 7",
+      "status": "Diproses"
+    },
+    {
+      "id": 8,
+      "nama": "Warga 8",
+      "aspirasi": "Aspirasi ke-8",
+      "lokasi": "Kota 8",
+      "status": "Selesai"
+    },
+    {
+      "id": 9,
+      "nama": "Warga 9",
+      "aspirasi": "Aspirasi ke-9",
+      "lokasi": "Kota 9",
+      "status": "Diterima"
+    },
+    {
+      "id": 10,
+      "nama": "Warga 10",
+      "aspirasi": "Aspirasi ke-10",
+      "lokasi": "Kota 10",
+      "status": "Diproses"
+    },
+    {
+      "id": 11,
+      "nama": "Warga 11",
+      "aspirasi": "Aspirasi ke-11",
+      "lokasi": "Kota 11",
+      "status": "Selesai"
+    },
+    {
+      "id": 12,
+      "nama": "Warga 12",
+      "aspirasi": "Aspirasi ke-12",
+      "lokasi": "Kota 12",
+      "status": "Diterima"
+    },
+    {
+      "id": 13,
+      "nama": "Warga 13",
+      "aspirasi": "Aspirasi ke-13",
+      "lokasi": "Kota 13",
+      "status": "Diproses"
+    },
+    {
+      "id": 14,
+      "nama": "Warga 14",
+      "aspirasi": "Aspirasi ke-14",
+      "lokasi": "Kota 14",
+      "status": "Selesai"
+    },
+    {
+      "id": 15,
+      "nama": "Warga 15",
+      "aspirasi": "Aspirasi ke-15",
+      "lokasi": "Kota 15",
+      "status": "Diterima"
+    },
+    {
+      "id": 16,
+      "nama": "Warga 16",
+      "aspirasi": "Aspirasi ke-16",
+      "lokasi": "Kota 16",
+      "status": "Diproses"
+    },
+    {
+      "id": 17,
+      "nama": "Warga 17",
+      "aspirasi": "Aspirasi ke-17",
+      "lokasi": "Kota 17",
+      "status": "Selesai"
+    },
+    {
+      "id": 18,
+      "nama": "Warga 18",
+      "aspirasi": "Aspirasi ke-18",
+      "lokasi": "Kota 18",
+      "status": "Diterima"
+    },
+    {
+      "id": 19,
+      "nama": "Warga 19",
+      "aspirasi": "Aspirasi ke-19",
+      "lokasi": "Kota 19",
+      "status": "Diproses"
+    },
+    {
+      "id": 20,
+      "nama": "Warga 20",
+      "aspirasi": "Aspirasi ke-20",
+      "lokasi": "Kota 20",
+      "status": "Selesai"
+    },
+    {
+      "id": 21,
+      "nama": "Warga 21",
+      "aspirasi": "Aspirasi ke-21",
+      "lokasi": "Kota 21",
+      "status": "Diterima"
+    },
+    {
+      "id": 22,
+      "nama": "Warga 22",
+      "aspirasi": "Aspirasi ke-22",
+      "lokasi": "Kota 22",
+      "status": "Diproses"
+    },
+    {
+      "id": 23,
+      "nama": "Warga 23",
+      "aspirasi": "Aspirasi ke-23",
+      "lokasi": "Kota 23",
+      "status": "Selesai"
+    },
+    {
+      "id": 24,
+      "nama": "Warga 24",
+      "aspirasi": "Aspirasi ke-24",
+      "lokasi": "Kota 24",
+      "status": "Diterima"
+    },
+    {
+      "id": 25,
+      "nama": "Warga 25",
+      "aspirasi": "Aspirasi ke-25",
+      "lokasi": "Kota 25",
+      "status": "Diproses"
+    }
+  ]
+}
